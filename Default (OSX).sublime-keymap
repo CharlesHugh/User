@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+forward_slash"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["super+shift+forward_slash"], "command": "toggle_comment", "args": { "block": true } },
+]

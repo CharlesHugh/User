@@ -1,0 +1,6 @@
+{
+	"cmd": ["sh","$file"],
+
+	"selector": "source.shell"
+
+}
